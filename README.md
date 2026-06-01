@@ -120,7 +120,8 @@ Created an interactive Power BI dashboard to visualize:
 
 # Dashboard Preview
 
-<img width="956" height="732" alt="image" src="https://github.com/user-attachments/assets/a5158a96-957f-43c1-b704-c0bbdf004b5f" />
+<img width="1021" height="737" alt="image" src="https://github.com/user-attachments/assets/4acc208c-4c4e-4da0-8b38-e61db865b964" />
+
 
 
 ---
